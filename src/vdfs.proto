@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package vdfs;
+
+message Int32 {
+  int32 data = 1;
+}
+
